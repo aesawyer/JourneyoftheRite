@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Set-Up Scripts\TextInput.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Set-Up Scripts\InteractableObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Set-Up Scripts\Dictionary.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Set-Up Scripts\Characters\BaseCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Set-Up Scripts\Characters\InspectorStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Set-Up Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Set-Up Scripts\Characters\HomeRegions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Set-Up Scripts\Room.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Set-Up Scripts\InputAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Set-Up Scripts\TextInput.cs" Line="40" Column="52" />
+      <File FileName="Assets\Scripts\Set-Up Scripts\RoomNavigation.cs" Line="19" Column="55" />
+      <File FileName="Assets\Scripts\Set-Up Scripts\Exit.cs" Line="8" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

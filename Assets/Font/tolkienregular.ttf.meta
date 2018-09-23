@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a64498e167226e4499429f80b8aa72bc
+timeCreated: 1508711392
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tolkien
+  fontNames:
+  - Tolkien
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
